@@ -35,7 +35,8 @@ Please follow the below instructions to run this project in your machine:
 
 ## Contact
 
-MD Himel - [arefinabrarhimel@gmail.com]
+asifulpranto@gmail.com
+
 
 ## Used Technologies 
 
