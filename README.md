@@ -35,7 +35,7 @@ Please follow the below instructions to run this project in your machine:
 
 ## Contact
 
-asifulpranto@gmail.com
+[asifulpranto@gmail.com]
 
 
 ## Used Technologies 
