@@ -33,9 +33,13 @@ Please follow the below instructions to run this project in your machine:
 
 <!-- CONTACT -->
 
-## Contact
+## Contact 
 
-[asifulpranto@gmail.com]
+[Ashiful Islam Pranto]-{2022200000171@seu.edu.bd}
+[Showrav Zakir Khan]-{2022200000193@seu.edu.bd}
+[Mariad Hossain]-{2022200000190@seu.edu.bd}
+[Rubama Imam Chowdhury]-{2022200000192@seu.edu.bd}
+
 
 
 ## Used Technologies 
